@@ -1,7 +1,7 @@
 /**
  * QR STUDIO — Premium QR Code Generator
  * Fully client-side, privacy-first QR code generation
- * Built with Vanilla JavaScript + QRCode.js
+ * Built with Vanilla JavaScript + QRCode.js hhhhhh
  */
 
 (function() {
